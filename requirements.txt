@@ -1,7 +1,7 @@
 streamlit
 Pillow==6.2.2
 tensorflow-cpu == 2.2
-numpy
+
 keras
 pytest-shutil
 numpy==1.19.5
